@@ -28,3 +28,5 @@
 [Gmail:date:](paola.maguina@utec.edu.pe)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## Playlist Spotify 🎹👯‍♀️
+&nbsp; <br> [![Spotify](https://novatorem-paolamag.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+

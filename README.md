@@ -8,11 +8,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## About me 
 - I'm 17 years :fairy_woman: (**21/09** ♍)
-- In my free time :massage: I like to read books 📚 , watch series :movie_camera:,
-  listen to music 💗:notes:
-- I like to play volleyball :volleyball:  and ride a bike 🚴‍♀️, but I would like to learn tennis 🎾.
-- I love the coffee 🤎:coffee:
-- I like to listen to music when I study because it helps me memorize things better 💡
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages
 ### I'm currently in 1st cycle in CS, so I know only one language, but I would like to learn more languages.:mechanical_arm:
